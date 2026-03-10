@@ -1,1 +1,0 @@
-# warboard-assistant
